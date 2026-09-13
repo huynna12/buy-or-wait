@@ -1,2 +1,6 @@
 log.txt
 __pycache__/
+.env
+*.env
+code.zip
+.mypy_cache/

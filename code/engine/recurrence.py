@@ -82,14 +82,23 @@ class RecurringSeries:
 
     def occurrences_between(self, start: date, end: date) -> list[date]:
         """Occurrence dates in [start, end], inclusive."""
-        dates = []
-        year, month = start.year, start.month
-        while (year, month) <= (end.year, end.month):
-            day = _on_day(year, month, self.day_of_month)
-            if start <= day <= end:
-                dates.append(day)
-            year, month = _next_month(year, month)
-        return dates
+        return monthly_dates(start, end, self.day_of_month)
+
+
+def monthly_dates(start: date, end: date, day_of_month: int) -> list[date]:
+    """Dates on `day_of_month` (clamped to month end) in [start, end], inclusive."""
+    dates = []
+    year, month = start.year, start.month
+    while (year, month) <= (end.year, end.month):
+        day = _on_day(year, month, day_of_month)
+        if start <= day <= end:
+            dates.append(day)
+        year, month = _next_month(year, month)
+    return dates
+
+
+def on_day(year: int, month: int, day: int) -> date:
+    return _on_day(year, month, day)
 
 
 def detect_series(events: Iterable[Event]) -> list[RecurringSeries]:

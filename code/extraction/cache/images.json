@@ -1,0 +1,98 @@
+{
+  "image_01:event_253:515cc7a84b91f2b4": {
+    "amount": 4365000,
+    "currency": "IDR",
+    "label": "Net Pay",
+    "readable": true
+  },
+  "image_02:event_1442:64400bf44eec5876": {
+    "amount": 100000,
+    "currency": "INR",
+    "label": "Balance Due:",
+    "readable": true
+  },
+  "image_03:event_1545:7561519ab10a036b": {
+    "amount": 41272.0,
+    "currency": "INR",
+    "label": "Cash Paid:",
+    "readable": true
+  },
+  "image_04:event_1700:5b72f860263f69ac": {
+    "amount": null,
+    "currency": "INR",
+    "label": "Item Bill",
+    "readable": false
+  },
+  "image_05:event_1786:7bf47d4831fdbe70": {
+    "amount": 822.05,
+    "currency": "INR",
+    "label": "Amount due after 06-Feb-2026",
+    "readable": true
+  },
+  "image_06:event_3051:679013e172c6f187": {
+    "amount": 1995.0,
+    "currency": "INR",
+    "label": "Total",
+    "readable": true
+  },
+  "image_07:event_3231:8a2a24a5cbb86d81": {
+    "amount": 8528,
+    "currency": "INR",
+    "label": "Grand Total (RS)",
+    "readable": true
+  },
+  "image_08:event_4535:bdd9f9b9113f51bf": {
+    "amount": 15339.0,
+    "currency": "INR",
+    "label": "Total Amount Received",
+    "readable": true
+  },
+  "image_09:event_5170:11d8f375f2c72bab": {
+    "amount": 723.0,
+    "currency": "INR",
+    "label": "Total Amount Received",
+    "readable": true
+  },
+  "image_10:event_6033:d4e15e84664f660e": {
+    "amount": 79679.26,
+    "currency": "INR",
+    "label": "Balance Due",
+    "readable": true
+  },
+  "image_11:event_6859:ebd09fb8e2e95491": {
+    "amount": 3650,
+    "currency": "INR",
+    "label": "Balance",
+    "readable": true
+  },
+  "image_12:event_7307:84922365d0fe1180": {
+    "amount": 33.5,
+    "currency": "USD",
+    "label": "Total:",
+    "readable": true
+  },
+  "image_13:event_7941:b79776c51b2f22f1": {
+    "amount": 2298,
+    "currency": "INR",
+    "label": "Total paid",
+    "readable": true
+  },
+  "image_14:event_9421:eea8389807ca66a8": {
+    "amount": 4543,
+    "currency": "INR",
+    "label": "TOTAL",
+    "readable": true
+  },
+  "image_15:event_9806:bc270b690aaec727": {
+    "amount": 9968.0,
+    "currency": "INR",
+    "label": "Grand Total Total(Incl Taxes)",
+    "readable": true
+  },
+  "image_16:event_10521:ccbf60e62f37ad90": {
+    "amount": 393.22,
+    "currency": "INR",
+    "label": "Total",
+    "readable": true
+  }
+}

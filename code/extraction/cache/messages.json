@@ -1,0 +1,1722 @@
+{
+  "message_01:8e316fcb5fe13d18": {
+    "amount": 42750000,
+    "category": null,
+    "currency": "IDR",
+    "effective_date": "2025-08-15",
+    "intent": "salary_amount_change",
+    "percent": null
+  },
+  "message_02:d39c7133b5559718": {
+    "amount": null,
+    "category": null,
+    "currency": null,
+    "effective_date": null,
+    "intent": "no_financial_change",
+    "percent": null
+  },
+  "message_03:ad2b64b80e911cc4": {
+    "amount": null,
+    "category": null,
+    "currency": null,
+    "effective_date": null,
+    "intent": "unconfirmed_income",
+    "percent": null
+  },
+  "message_04:dd808e4696487bdd": {
+    "amount": 1037.52,
+    "category": null,
+    "currency": "EUR",
+    "effective_date": null,
+    "intent": "salary_amount_change",
+    "percent": null
+  },
+  "message_05:301b8749151dae1d": {
+    "amount": null,
+    "category": null,
+    "currency": null,
+    "effective_date": "2024-09-23",
+    "intent": "salary_date_change",
+    "percent": null
+  },
+  "message_06:61666dd4bed49e4a": {
+    "amount": 1422.85,
+    "category": null,
+    "currency": "EUR",
+    "effective_date": null,
+    "intent": "salary_amount_change",
+    "percent": null
+  },
+  "message_07:6c089b34912cc2e0": {
+    "amount": null,
+    "category": null,
+    "currency": null,
+    "effective_date": null,
+    "intent": "unconfirmed_income",
+    "percent": null
+  },
+  "message_08:3ffdf111ef77be5d": {
+    "amount": 38760000,
+    "category": null,
+    "currency": "IDR",
+    "effective_date": null,
+    "intent": "salary_amount_change",
+    "percent": null
+  },
+  "message_09:6d8cdffca63862a1": {
+    "amount": null,
+    "category": null,
+    "currency": null,
+    "effective_date": null,
+    "intent": "income_end",
+    "percent": null
+  },
+  "message_100:00035e87aaa03f00": {
+    "amount": 2177.28,
+    "category": null,
+    "currency": "USD",
+    "effective_date": null,
+    "intent": "salary_amount_change",
+    "percent": null
+  },
+  "message_101:5cf35df9a55a8f9c": {
+    "amount": null,
+    "category": null,
+    "currency": null,
+    "effective_date": "2025-05-23",
+    "intent": "salary_date_change",
+    "percent": null
+  },
+  "message_102:0974a82d7b2f963e": {
+    "amount": 1193.4,
+    "category": null,
+    "currency": "USD",
+    "effective_date": null,
+    "intent": "salary_amount_change",
+    "percent": null
+  },
+  "message_103:53ff994e121276db": {
+    "amount": null,
+    "category": null,
+    "currency": null,
+    "effective_date": null,
+    "intent": "income_end",
+    "percent": null
+  },
+  "message_104:e0bf37c2e0f0d914": {
+    "amount": 828,
+    "category": null,
+    "currency": "USD",
+    "effective_date": "2026-07-15",
+    "intent": "salary_amount_change",
+    "percent": null
+  },
+  "message_105:7208862e00299683": {
+    "amount": null,
+    "category": "rent",
+    "currency": null,
+    "effective_date": null,
+    "intent": "expense_change_percent",
+    "percent": 12
+  },
+  "message_106:b0e6a539ac1d1dae": {
+    "amount": null,
+    "category": null,
+    "currency": null,
+    "effective_date": null,
+    "intent": "dispute_open",
+    "percent": null
+  },
+  "message_107:98f7d441754bc610": {
+    "amount": 31900,
+    "category": null,
+    "currency": "ZAR",
+    "effective_date": "2025-02-15",
+    "intent": "salary_start",
+    "percent": null
+  },
+  "message_108:edd122c54b2624e0": {
+    "amount": null,
+    "category": null,
+    "currency": null,
+    "effective_date": null,
+    "intent": "settled_already",
+    "percent": null
+  },
+  "message_109:ee809f623a8c74f3": {
+    "amount": 2040,
+    "category": null,
+    "currency": "USD",
+    "effective_date": "2024-12-15",
+    "intent": "confirmed_one_off_credit",
+    "percent": null
+  },
+  "message_10:ec2a4fc265e2f741": {
+    "amount": 2717,
+    "category": null,
+    "currency": "EUR",
+    "effective_date": "2025-08-15",
+    "intent": "salary_start",
+    "percent": null
+  },
+  "message_110:29ffa11a91870e4e": {
+    "amount": null,
+    "category": null,
+    "currency": null,
+    "effective_date": null,
+    "intent": "settled_already",
+    "percent": null
+  },
+  "message_111:0fcb2a81a26d7cc6": {
+    "amount": 864,
+    "category": null,
+    "currency": "USD",
+    "effective_date": "2026-07-15",
+    "intent": "salary_start",
+    "percent": null
+  },
+  "message_112:6892c680ad1da846": {
+    "amount": 258000,
+    "category": null,
+    "currency": "INR",
+    "effective_date": null,
+    "intent": "salary_amount_change",
+    "percent": null
+  },
+  "message_113:0363b065d64c291a": {
+    "amount": 1529,
+    "category": null,
+    "currency": "EUR",
+    "effective_date": "2026-04-15",
+    "intent": "salary_start",
+    "percent": null
+  },
+  "message_114:7089faa0af035aa2": {
+    "amount": null,
+    "category": null,
+    "currency": null,
+    "effective_date": null,
+    "intent": "settled_already",
+    "percent": null
+  },
+  "message_115:aaddcec5ebd1a4b3": {
+    "amount": 893.75,
+    "category": null,
+    "currency": "EUR",
+    "effective_date": null,
+    "intent": "salary_amount_change",
+    "percent": null
+  },
+  "message_116:2f93aba1b74cee8c": {
+    "amount": 46170000,
+    "category": null,
+    "currency": "IDR",
+    "effective_date": "2024-09-15",
+    "intent": "salary_start",
+    "percent": null
+  },
+  "message_117:fa5453884dd21e48": {
+    "amount": null,
+    "category": null,
+    "currency": null,
+    "effective_date": null,
+    "intent": "no_financial_change",
+    "percent": null
+  },
+  "message_118:f1703c752cd98843": {
+    "amount": null,
+    "category": null,
+    "currency": null,
+    "effective_date": null,
+    "intent": "no_financial_change",
+    "percent": null
+  },
+  "message_119:031b14a5e5e9caf9": {
+    "amount": 1628,
+    "category": null,
+    "currency": "EUR",
+    "effective_date": null,
+    "intent": "salary_amount_change",
+    "percent": null
+  },
+  "message_11:32d4d5f3a970531f": {
+    "amount": 1661,
+    "category": null,
+    "currency": "EUR",
+    "effective_date": "2026-01-15",
+    "intent": "salary_start",
+    "percent": null
+  },
+  "message_120:cbb98bf5c3bb7bc5": {
+    "amount": 84000,
+    "category": null,
+    "currency": "INR",
+    "effective_date": "2025-05-15",
+    "intent": "salary_start",
+    "percent": null
+  },
+  "message_121:d62997925f78d001": {
+    "amount": null,
+    "category": null,
+    "currency": null,
+    "effective_date": null,
+    "intent": "dispute_open",
+    "percent": null
+  },
+  "message_122:cc127207ef5c77b1": {
+    "amount": 23940000,
+    "category": null,
+    "currency": "IDR",
+    "effective_date": null,
+    "intent": "salary_amount_change",
+    "percent": null
+  },
+  "message_123:d59bc3130b87c06e": {
+    "amount": null,
+    "category": null,
+    "currency": null,
+    "effective_date": null,
+    "intent": "unconfirmed_income",
+    "percent": null
+  },
+  "message_124:bcce32e8597b867e": {
+    "amount": 1672,
+    "category": null,
+    "currency": "EUR",
+    "effective_date": "2024-06-15",
+    "intent": "salary_start",
+    "percent": null
+  },
+  "message_125:834eb4dd9ac20468": {
+    "amount": 26790000,
+    "category": null,
+    "currency": "IDR",
+    "effective_date": "2025-11-15",
+    "intent": "salary_start",
+    "percent": null
+  },
+  "message_126:3d4c952a1e08481d": {
+    "amount": 29070000,
+    "category": null,
+    "currency": "IDR",
+    "effective_date": "2026-07-15",
+    "intent": "salary_amount_change",
+    "percent": null
+  },
+  "message_127:6495ba456bbbd95b": {
+    "amount": 30400000,
+    "category": null,
+    "currency": "IDR",
+    "effective_date": null,
+    "intent": "salary_amount_change",
+    "percent": null
+  },
+  "message_128:5422d9cfd963c0c4": {
+    "amount": 44270000,
+    "category": null,
+    "currency": "IDR",
+    "effective_date": null,
+    "intent": "salary_amount_change",
+    "percent": null
+  },
+  "message_129:492c7713971a5fb1": {
+    "amount": null,
+    "category": null,
+    "currency": null,
+    "effective_date": null,
+    "intent": "income_end",
+    "percent": null
+  },
+  "message_12:39d4baa5b7e32b69": {
+    "amount": null,
+    "category": "rent",
+    "currency": null,
+    "effective_date": null,
+    "intent": "expense_change_percent",
+    "percent": 12
+  },
+  "message_130:9d791accd6ae2c12": {
+    "amount": 2340,
+    "category": null,
+    "currency": "USD",
+    "effective_date": "2024-12-15",
+    "intent": "confirmed_one_off_credit",
+    "percent": null
+  },
+  "message_131:ee08b3896bfd3e22": {
+    "amount": null,
+    "category": null,
+    "currency": null,
+    "effective_date": "2025-05-23",
+    "intent": "salary_date_change",
+    "percent": null
+  },
+  "message_132:86b831bde585aff0": {
+    "amount": 137150,
+    "category": null,
+    "currency": "INR",
+    "effective_date": null,
+    "intent": "salary_amount_change",
+    "percent": null
+  },
+  "message_133:a87ad4bc68a3e390": {
+    "amount": null,
+    "category": null,
+    "currency": null,
+    "effective_date": null,
+    "intent": "refund_pending",
+    "percent": null
+  },
+  "message_134:c50754bd7fd00cf0": {
+    "amount": null,
+    "category": null,
+    "currency": null,
+    "effective_date": null,
+    "intent": "unconfirmed_income",
+    "percent": null
+  },
+  "message_135:f0ba009f45671695": {
+    "amount": null,
+    "category": null,
+    "currency": null,
+    "effective_date": null,
+    "intent": "own_account_transfer",
+    "percent": null
+  },
+  "message_136:d1200835625f77ee": {
+    "amount": null,
+    "category": null,
+    "currency": null,
+    "effective_date": null,
+    "intent": "no_financial_change",
+    "percent": null
+  },
+  "message_137:1471be397f15e803": {
+    "amount": 1284,
+    "category": null,
+    "currency": "USD",
+    "effective_date": "2025-11-15",
+    "intent": "salary_start",
+    "percent": null
+  },
+  "message_138:0b510f28f1956b91": {
+    "amount": 1924.56,
+    "category": null,
+    "currency": "EUR",
+    "effective_date": null,
+    "intent": "salary_amount_change",
+    "percent": null
+  },
+  "message_139:90ee863d50354606": {
+    "amount": 847,
+    "category": null,
+    "currency": "EUR",
+    "effective_date": null,
+    "intent": "salary_amount_change",
+    "percent": null
+  },
+  "message_13:02f438c800b951cf": {
+    "amount": null,
+    "category": null,
+    "currency": null,
+    "effective_date": null,
+    "intent": "own_account_transfer",
+    "percent": null
+  },
+  "message_140:7f1a0983eedc183e": {
+    "amount": 1731.6,
+    "category": null,
+    "currency": "USD",
+    "effective_date": null,
+    "intent": "salary_amount_change",
+    "percent": null
+  },
+  "message_141:05f7e0bd597599d7": {
+    "amount": 2376,
+    "category": null,
+    "currency": "EUR",
+    "effective_date": "2024-12-15",
+    "intent": "confirmed_one_off_credit",
+    "percent": null
+  },
+  "message_142:69558cc222e6fcde": {
+    "amount": null,
+    "category": null,
+    "currency": null,
+    "effective_date": null,
+    "intent": "scam_or_solicitation",
+    "percent": null
+  },
+  "message_143:454489bf989e806f": {
+    "amount": 59000,
+    "category": null,
+    "currency": "INR",
+    "effective_date": "2026-07-15",
+    "intent": "salary_start",
+    "percent": null
+  },
+  "message_144:f3baffe3d5269b33": {
+    "amount": null,
+    "category": null,
+    "currency": null,
+    "effective_date": null,
+    "intent": "unconfirmed_income",
+    "percent": null
+  },
+  "message_145:cf4cea0e9c18a446": {
+    "amount": null,
+    "category": null,
+    "currency": null,
+    "effective_date": null,
+    "intent": "no_financial_change",
+    "percent": null
+  },
+  "message_146:50d7cc1ea436acf1": {
+    "amount": null,
+    "category": null,
+    "currency": null,
+    "effective_date": null,
+    "intent": "refund_pending",
+    "percent": null
+  },
+  "message_147:ccfc15d267c18136": {
+    "amount": null,
+    "category": "rent",
+    "currency": null,
+    "effective_date": null,
+    "intent": "expense_change_percent",
+    "percent": 12
+  },
+  "message_148:630027db13ec8842": {
+    "amount": 31889,
+    "category": null,
+    "currency": "ZAR",
+    "effective_date": null,
+    "intent": "salary_amount_change",
+    "percent": null
+  },
+  "message_149:ee4389d7c1b0ae4d": {
+    "amount": 145000,
+    "category": null,
+    "currency": "INR",
+    "effective_date": "2024-09-15",
+    "intent": "salary_start",
+    "percent": null
+  },
+  "message_14:d77f28bab5696e52": {
+    "amount": null,
+    "category": null,
+    "currency": null,
+    "effective_date": null,
+    "intent": "refund_pending",
+    "percent": null
+  },
+  "message_150:49922878e7f42fdb": {
+    "amount": null,
+    "category": null,
+    "currency": null,
+    "effective_date": null,
+    "intent": "no_financial_change",
+    "percent": null
+  },
+  "message_151:d1301ecd635c8b3d": {
+    "amount": 627,
+    "category": null,
+    "currency": "EUR",
+    "effective_date": "2026-07-15",
+    "intent": "salary_amount_change",
+    "percent": null
+  },
+  "message_152:8a04fdb5f9908e9e": {
+    "amount": null,
+    "category": null,
+    "currency": null,
+    "effective_date": null,
+    "intent": "refund_pending",
+    "percent": null
+  },
+  "message_153:94f67a8f98d495b0": {
+    "amount": 1750.32,
+    "category": null,
+    "currency": "EUR",
+    "effective_date": null,
+    "intent": "salary_amount_change",
+    "percent": null
+  },
+  "message_154:2f25dd00cc2e446e": {
+    "amount": null,
+    "category": null,
+    "currency": null,
+    "effective_date": "2025-08-23",
+    "intent": "salary_date_change",
+    "percent": null
+  },
+  "message_155:43670a003e3a26bd": {
+    "amount": 1222.65,
+    "category": null,
+    "currency": "EUR",
+    "effective_date": null,
+    "intent": "salary_amount_change",
+    "percent": null
+  },
+  "message_156:b5c63931bd20185d": {
+    "amount": 38190000,
+    "category": null,
+    "currency": "IDR",
+    "effective_date": "2025-11-15",
+    "intent": "salary_start",
+    "percent": null
+  },
+  "message_157:e04c141b8dcfb01b": {
+    "amount": null,
+    "category": null,
+    "currency": null,
+    "effective_date": null,
+    "intent": "dispute_open",
+    "percent": null
+  },
+  "message_158:fec28fb6dbba1fbb": {
+    "amount": null,
+    "category": null,
+    "currency": null,
+    "effective_date": null,
+    "intent": "unconfirmed_income",
+    "percent": null
+  },
+  "message_159:12f264cb49793dbe": {
+    "amount": null,
+    "category": null,
+    "currency": null,
+    "effective_date": null,
+    "intent": "unconfirmed_income",
+    "percent": null
+  },
+  "message_15:a75c037b01045943": {
+    "amount": null,
+    "category": null,
+    "currency": null,
+    "effective_date": null,
+    "intent": "investment_value_only",
+    "percent": null
+  },
+  "message_160:bfabb10375769fe1": {
+    "amount": null,
+    "category": null,
+    "currency": null,
+    "effective_date": null,
+    "intent": "income_end",
+    "percent": null
+  },
+  "message_161:7d14b014071e8d3c": {
+    "amount": null,
+    "category": null,
+    "currency": null,
+    "effective_date": null,
+    "intent": "no_financial_change",
+    "percent": null
+  },
+  "message_162:4c54cf4db86606e1": {
+    "amount": 2024,
+    "category": null,
+    "currency": "EUR",
+    "effective_date": "2026-01-15",
+    "intent": "salary_start",
+    "percent": null
+  },
+  "message_163:a52a9740b8ce7ca9": {
+    "amount": null,
+    "category": null,
+    "currency": null,
+    "effective_date": null,
+    "intent": "investment_value_only",
+    "percent": null
+  },
+  "message_164:dc9b7b9ae8a58f61": {
+    "amount": null,
+    "category": null,
+    "currency": null,
+    "effective_date": null,
+    "intent": "dispute_open",
+    "percent": null
+  },
+  "message_165:75dd770c46383ec1": {
+    "amount": null,
+    "category": null,
+    "currency": null,
+    "effective_date": "2025-02-23",
+    "intent": "salary_date_change",
+    "percent": null
+  },
+  "message_166:fbed4e553448a8a2": {
+    "amount": null,
+    "category": null,
+    "currency": null,
+    "effective_date": null,
+    "intent": "income_end",
+    "percent": null
+  },
+  "message_167:67ae0bd6ba1cfbb3": {
+    "amount": null,
+    "category": null,
+    "currency": null,
+    "effective_date": null,
+    "intent": "refund_pending",
+    "percent": null
+  },
+  "message_168:fdb23a4c4af32859": {
+    "amount": null,
+    "category": null,
+    "currency": null,
+    "effective_date": null,
+    "intent": "unconfirmed_income",
+    "percent": null
+  },
+  "message_169:ef7938bd81cbfcb4": {
+    "amount": 2424,
+    "category": null,
+    "currency": "USD",
+    "effective_date": "2026-07-15",
+    "intent": "salary_amount_change",
+    "percent": null
+  },
+  "message_16:6e2eb63b5d3c4a35": {
+    "amount": null,
+    "category": null,
+    "currency": null,
+    "effective_date": null,
+    "intent": "unconfirmed_income",
+    "percent": null
+  },
+  "message_170:a04d5a1b312d4d3e": {
+    "amount": 1914,
+    "category": null,
+    "currency": "EUR",
+    "effective_date": "2026-04-15",
+    "intent": "salary_start",
+    "percent": null
+  },
+  "message_171:e9c2009fc341b4d3": {
+    "amount": 1346.4,
+    "category": null,
+    "currency": "EUR",
+    "effective_date": null,
+    "intent": "salary_amount_change",
+    "percent": null
+  },
+  "message_172:2b75cedd1e5c0a35": {
+    "amount": null,
+    "category": null,
+    "currency": null,
+    "effective_date": null,
+    "intent": "refund_pending",
+    "percent": null
+  },
+  "message_173:59e67172a938ffd4": {
+    "amount": 35200,
+    "category": null,
+    "currency": "ZAR",
+    "effective_date": "2026-01-15",
+    "intent": "confirmed_one_off_credit",
+    "percent": null
+  },
+  "message_174:c710df9cf973059f": {
+    "amount": null,
+    "category": null,
+    "currency": null,
+    "effective_date": null,
+    "intent": "settled_already",
+    "percent": null
+  },
+  "message_175:59eb52c7a0bc3d48": {
+    "amount": null,
+    "category": "rent",
+    "currency": null,
+    "effective_date": null,
+    "intent": "expense_change_percent",
+    "percent": 12
+  },
+  "message_176:dde5873114c130ff": {
+    "amount": 260000,
+    "category": null,
+    "currency": "INR",
+    "effective_date": null,
+    "intent": "salary_amount_change",
+    "percent": null
+  },
+  "message_177:6d8e6ef51a35b119": {
+    "amount": null,
+    "category": null,
+    "currency": null,
+    "effective_date": null,
+    "intent": "unconfirmed_income",
+    "percent": null
+  },
+  "message_178:6a0d5933d2d6ea47": {
+    "amount": 30400000,
+    "category": null,
+    "currency": "IDR",
+    "effective_date": "2026-04-15",
+    "intent": "salary_start",
+    "percent": null
+  },
+  "message_179:5ffe051b27b7fde5": {
+    "amount": null,
+    "category": null,
+    "currency": null,
+    "effective_date": null,
+    "intent": "no_financial_change",
+    "percent": null
+  },
+  "message_17:0a05dcfe39753802": {
+    "amount": null,
+    "category": null,
+    "currency": null,
+    "effective_date": null,
+    "intent": "settled_already",
+    "percent": null
+  },
+  "message_180:a097baf380940de1": {
+    "amount": 2827,
+    "category": null,
+    "currency": "EUR",
+    "effective_date": null,
+    "intent": "salary_amount_change",
+    "percent": null
+  },
+  "message_181:934ab687b2c686bc": {
+    "amount": 2772,
+    "category": null,
+    "currency": "EUR",
+    "effective_date": "2024-06-15",
+    "intent": "salary_start",
+    "percent": null
+  },
+  "message_182:3ba76290f615cc07": {
+    "amount": 16910000,
+    "category": null,
+    "currency": "IDR",
+    "effective_date": "2025-11-15",
+    "intent": "salary_start",
+    "percent": null
+  },
+  "message_183:c18e71bcbd9d29d7": {
+    "amount": null,
+    "category": null,
+    "currency": null,
+    "effective_date": null,
+    "intent": "dispute_open",
+    "percent": null
+  },
+  "message_184:a181f953ce3ff5fd": {
+    "amount": null,
+    "category": null,
+    "currency": null,
+    "effective_date": null,
+    "intent": "refund_pending",
+    "percent": null
+  },
+  "message_185:4735d9130bde44c5": {
+    "amount": null,
+    "category": null,
+    "currency": null,
+    "effective_date": null,
+    "intent": "investment_value_only",
+    "percent": null
+  },
+  "message_186:6091b3a6b20579f1": {
+    "amount": null,
+    "category": null,
+    "currency": null,
+    "effective_date": null,
+    "intent": "income_end",
+    "percent": null
+  },
+  "message_187:01026b8b2ac66c9a": {
+    "amount": 912,
+    "category": null,
+    "currency": "USD",
+    "effective_date": null,
+    "intent": "salary_amount_change",
+    "percent": null
+  },
+  "message_188:e33b5d38ca233fbe": {
+    "amount": 62000,
+    "category": null,
+    "currency": "INR",
+    "effective_date": "2026-01-15",
+    "intent": "salary_start",
+    "percent": null
+  },
+  "message_189:acfb201a7f6a2c49": {
+    "amount": null,
+    "category": null,
+    "currency": null,
+    "effective_date": null,
+    "intent": "income_end",
+    "percent": null
+  },
+  "message_18:c13ea1e3ae33dc08": {
+    "amount": 30780000,
+    "category": null,
+    "currency": "IDR",
+    "effective_date": "2025-08-15",
+    "intent": "confirmed_one_off_credit",
+    "percent": null
+  },
+  "message_190:db2396899a2bedda": {
+    "amount": 968,
+    "category": null,
+    "currency": "EUR",
+    "effective_date": "2025-08-15",
+    "intent": "salary_start",
+    "percent": null
+  },
+  "message_191:e185fcf21921ca44": {
+    "amount": 1680,
+    "category": null,
+    "currency": "USD",
+    "effective_date": "2025-11-15",
+    "intent": "salary_start",
+    "percent": null
+  },
+  "message_192:f4306a25b9c4d2f1": {
+    "amount": null,
+    "category": null,
+    "currency": null,
+    "effective_date": null,
+    "intent": "income_end",
+    "percent": null
+  },
+  "message_193:b0b3fb1b9b547aff": {
+    "amount": 1528.56,
+    "category": null,
+    "currency": "EUR",
+    "effective_date": null,
+    "intent": "salary_amount_change",
+    "percent": null
+  },
+  "message_194:5eb73c5a109f864f": {
+    "amount": 1548,
+    "category": null,
+    "currency": "USD",
+    "effective_date": null,
+    "intent": "salary_amount_change",
+    "percent": null
+  },
+  "message_195:37536627160da854": {
+    "amount": 702,
+    "category": null,
+    "currency": "USD",
+    "effective_date": null,
+    "intent": "salary_amount_change",
+    "percent": null
+  },
+  "message_196:8fe7d51de350b613": {
+    "amount": 53680,
+    "category": null,
+    "currency": "ZAR",
+    "effective_date": "2024-12-15",
+    "intent": "salary_start",
+    "percent": null
+  },
+  "message_197:c539267599c3df61": {
+    "amount": null,
+    "category": null,
+    "currency": null,
+    "effective_date": null,
+    "intent": "dispute_open",
+    "percent": null
+  },
+  "message_198:d755173401787f76": {
+    "amount": null,
+    "category": null,
+    "currency": null,
+    "effective_date": null,
+    "intent": "no_financial_change",
+    "percent": null
+  },
+  "message_199:4e5079f7a80e1327": {
+    "amount": null,
+    "category": null,
+    "currency": null,
+    "effective_date": null,
+    "intent": "unconfirmed_income",
+    "percent": null
+  },
+  "message_19:5d490c4e227a8acb": {
+    "amount": null,
+    "category": null,
+    "currency": null,
+    "effective_date": null,
+    "intent": "unconfirmed_income",
+    "percent": null
+  },
+  "message_200:b47f617fa9bae059": {
+    "amount": 214000,
+    "category": null,
+    "currency": "INR",
+    "effective_date": "2024-06-15",
+    "intent": "salary_start",
+    "percent": null
+  },
+  "message_201:9a8dc59d7f09c0f5": {
+    "amount": null,
+    "category": null,
+    "currency": null,
+    "effective_date": null,
+    "intent": "no_financial_change",
+    "percent": null
+  },
+  "message_202:42362594e420e75c": {
+    "amount": null,
+    "category": null,
+    "currency": null,
+    "effective_date": null,
+    "intent": "own_account_transfer",
+    "percent": null
+  },
+  "message_203:ea500e34de9c5619": {
+    "amount": 48260000,
+    "category": null,
+    "currency": "IDR",
+    "effective_date": null,
+    "intent": "salary_amount_change",
+    "percent": null
+  },
+  "message_204:ded2890dcf764dbe": {
+    "amount": 1485,
+    "category": null,
+    "currency": "EUR",
+    "effective_date": "2025-05-15",
+    "intent": "salary_start",
+    "percent": null
+  },
+  "message_205:7c99ec69d98bb1b8": {
+    "amount": null,
+    "category": null,
+    "currency": null,
+    "effective_date": null,
+    "intent": "investment_value_only",
+    "percent": null
+  },
+  "message_206:fad35d7eeca8f8d2": {
+    "amount": null,
+    "category": null,
+    "currency": null,
+    "effective_date": null,
+    "intent": "income_end",
+    "percent": null
+  },
+  "message_207:572fa964c8572070": {
+    "amount": null,
+    "category": null,
+    "currency": null,
+    "effective_date": null,
+    "intent": "investment_value_only",
+    "percent": null
+  },
+  "message_208:54adb6de06d21330": {
+    "amount": null,
+    "category": null,
+    "currency": null,
+    "effective_date": null,
+    "intent": "no_financial_change",
+    "percent": null
+  },
+  "message_209:60aa891d00b2103b": {
+    "amount": null,
+    "category": null,
+    "currency": null,
+    "effective_date": null,
+    "intent": "unconfirmed_income",
+    "percent": null
+  },
+  "message_20:4f2c8cdd538e2819": {
+    "amount": 1452,
+    "category": null,
+    "currency": "EUR",
+    "effective_date": null,
+    "intent": "salary_amount_change",
+    "percent": null
+  },
+  "message_210:9c166e9e07bbcf69": {
+    "amount": 38280,
+    "category": null,
+    "currency": "ZAR",
+    "effective_date": "2025-11-15",
+    "intent": "salary_start",
+    "percent": null
+  },
+  "message_211:2d8fb24f8e2afbf3": {
+    "amount": 103000,
+    "category": null,
+    "currency": "INR",
+    "effective_date": null,
+    "intent": "salary_amount_change",
+    "percent": null
+  },
+  "message_212:964ab236f1a5f236": {
+    "amount": null,
+    "category": null,
+    "currency": null,
+    "effective_date": null,
+    "intent": "unconfirmed_income",
+    "percent": null
+  },
+  "message_213:adbc48a60a0586b3": {
+    "amount": null,
+    "category": null,
+    "currency": null,
+    "effective_date": null,
+    "intent": "own_account_transfer",
+    "percent": null
+  },
+  "message_214:6137d8d134645b76": {
+    "amount": null,
+    "category": null,
+    "currency": null,
+    "effective_date": null,
+    "intent": "refund_pending",
+    "percent": null
+  },
+  "message_215:6dac7633f3016e27": {
+    "amount": null,
+    "category": null,
+    "currency": null,
+    "effective_date": null,
+    "intent": "refund_pending",
+    "percent": null
+  },
+  "message_21:727796d5bfdf39bc": {
+    "amount": null,
+    "category": null,
+    "currency": null,
+    "effective_date": null,
+    "intent": "income_end",
+    "percent": null
+  },
+  "message_22:29de58f4ff4e96cc": {
+    "amount": 54120,
+    "category": null,
+    "currency": "ZAR",
+    "effective_date": "2025-02-15",
+    "intent": "salary_start",
+    "percent": null
+  },
+  "message_23:d6a41a22f227acea": {
+    "amount": null,
+    "category": null,
+    "currency": null,
+    "effective_date": null,
+    "intent": "own_account_transfer",
+    "percent": null
+  },
+  "message_24:ba3fbcdf178f9646": {
+    "amount": 196000,
+    "category": null,
+    "currency": "INR",
+    "effective_date": "2024-12-15",
+    "intent": "confirmed_one_off_credit",
+    "percent": null
+  },
+  "message_25:c26bbd11ee886bab": {
+    "amount": null,
+    "category": null,
+    "currency": null,
+    "effective_date": null,
+    "intent": "refund_pending",
+    "percent": null
+  },
+  "message_26:6bf1c3de1ca9af43": {
+    "amount": 2988,
+    "category": null,
+    "currency": "USD",
+    "effective_date": "2026-07-15",
+    "intent": "salary_amount_change",
+    "percent": null
+  },
+  "message_27:73aaa1bb21c9898d": {
+    "amount": 21090000,
+    "category": null,
+    "currency": "IDR",
+    "effective_date": null,
+    "intent": "salary_amount_change",
+    "percent": null
+  },
+  "message_28:f3fed3b02a46e0a0": {
+    "amount": null,
+    "category": null,
+    "currency": null,
+    "effective_date": null,
+    "intent": "settled_already",
+    "percent": null
+  },
+  "message_29:dc77edb419b421fb": {
+    "amount": 1760,
+    "category": null,
+    "currency": "EUR",
+    "effective_date": "2024-06-15",
+    "intent": "salary_start",
+    "percent": null
+  },
+  "message_30:5b89ff09a04fffad": {
+    "amount": 148000,
+    "category": null,
+    "currency": "INR",
+    "effective_date": null,
+    "intent": "salary_amount_change",
+    "percent": null
+  },
+  "message_31:052011bc1ec09949": {
+    "amount": 32870000,
+    "category": null,
+    "currency": "IDR",
+    "effective_date": "2024-09-15",
+    "intent": "salary_start",
+    "percent": null
+  },
+  "message_32:5cf8fb30314c9d8d": {
+    "amount": 115000,
+    "category": null,
+    "currency": "INR",
+    "effective_date": "2025-02-15",
+    "intent": "salary_start",
+    "percent": null
+  },
+  "message_33:4a5f62152c191ead": {
+    "amount": 17290000,
+    "category": null,
+    "currency": "IDR",
+    "effective_date": "2026-07-15",
+    "intent": "salary_amount_change",
+    "percent": null
+  },
+  "message_34:996d038c94b9c354": {
+    "amount": null,
+    "category": null,
+    "currency": null,
+    "effective_date": null,
+    "intent": "unconfirmed_income",
+    "percent": null
+  },
+  "message_35:4d50f01d2c15fa77": {
+    "amount": null,
+    "category": null,
+    "currency": null,
+    "effective_date": null,
+    "intent": "no_financial_change",
+    "percent": null
+  },
+  "message_36:bb0ac177937c6ee7": {
+    "amount": 31464000,
+    "category": null,
+    "currency": "IDR",
+    "effective_date": null,
+    "intent": "salary_amount_change",
+    "percent": null
+  },
+  "message_37:0798966eedf0c31b": {
+    "amount": 126000,
+    "category": null,
+    "currency": "INR",
+    "effective_date": null,
+    "intent": "salary_amount_change",
+    "percent": null
+  },
+  "message_38:8dda5a14916d1878": {
+    "amount": 69000,
+    "category": null,
+    "currency": "INR",
+    "effective_date": "2024-06-15",
+    "intent": "salary_start",
+    "percent": null
+  },
+  "message_39:7805616e1bb6d20e": {
+    "amount": null,
+    "category": null,
+    "currency": null,
+    "effective_date": null,
+    "intent": "refund_pending",
+    "percent": null
+  },
+  "message_40:83b5fe79c5c8e1db": {
+    "amount": 42460,
+    "category": null,
+    "currency": "ZAR",
+    "effective_date": "2026-07-15",
+    "intent": "salary_amount_change",
+    "percent": null
+  },
+  "message_41:1df4c0ce5874d4c6": {
+    "amount": null,
+    "category": null,
+    "currency": null,
+    "effective_date": null,
+    "intent": "own_account_transfer",
+    "percent": null
+  },
+  "message_42:00c51808a08b8364": {
+    "amount": 25840000,
+    "category": null,
+    "currency": "IDR",
+    "effective_date": null,
+    "intent": "salary_amount_change",
+    "percent": null
+  },
+  "message_43:ebf4d62996471a9e": {
+    "amount": null,
+    "category": null,
+    "currency": null,
+    "effective_date": null,
+    "intent": "unconfirmed_income",
+    "percent": null
+  },
+  "message_44:0a1bf13dbeaae01d": {
+    "amount": 530.4,
+    "category": null,
+    "currency": "USD",
+    "effective_date": null,
+    "intent": "salary_amount_change",
+    "percent": null
+  },
+  "message_45:cbe7f4fd4fc72948": {
+    "amount": null,
+    "category": null,
+    "currency": null,
+    "effective_date": null,
+    "intent": "income_end",
+    "percent": null
+  },
+  "message_46:90408d31b5954302": {
+    "amount": 2112,
+    "category": null,
+    "currency": "USD",
+    "effective_date": "2025-08-15",
+    "intent": "confirmed_one_off_credit",
+    "percent": null
+  },
+  "message_47:2a4183734beb8a46": {
+    "amount": null,
+    "category": null,
+    "currency": null,
+    "effective_date": null,
+    "intent": "refund_pending",
+    "percent": null
+  },
+  "message_48:905ef11b576764d6": {
+    "amount": null,
+    "category": null,
+    "currency": null,
+    "effective_date": null,
+    "intent": "unconfirmed_income",
+    "percent": null
+  },
+  "message_49:3bc4d89cdbe67365": {
+    "amount": 116000,
+    "category": null,
+    "currency": "INR",
+    "effective_date": "2026-04-15",
+    "intent": "confirmed_one_off_credit",
+    "percent": null
+  },
+  "message_50:794237d4b69e7f16": {
+    "amount": null,
+    "category": null,
+    "currency": null,
+    "effective_date": "2025-02-23",
+    "intent": "salary_date_change",
+    "percent": null
+  },
+  "message_51:159bfec92d6640c3": {
+    "amount": null,
+    "category": "rent",
+    "currency": null,
+    "effective_date": null,
+    "intent": "expense_change_percent",
+    "percent": 12
+  },
+  "message_52:fef9d01a57061767": {
+    "amount": null,
+    "category": null,
+    "currency": null,
+    "effective_date": null,
+    "intent": "investment_value_only",
+    "percent": null
+  },
+  "message_53:5539f0ad11efe107": {
+    "amount": 696,
+    "category": null,
+    "currency": "USD",
+    "effective_date": "2025-05-15",
+    "intent": "salary_start",
+    "percent": null
+  },
+  "message_54:2ad77d495618f7d4": {
+    "amount": 18700,
+    "category": null,
+    "currency": "ZAR",
+    "effective_date": "2026-07-15",
+    "intent": "salary_start",
+    "percent": null
+  },
+  "message_55:f2bb22576308fef0": {
+    "amount": null,
+    "category": "rent",
+    "currency": null,
+    "effective_date": null,
+    "intent": "expense_change_percent",
+    "percent": 12
+  },
+  "message_56:7b23a11095a5d5c5": {
+    "amount": 26180,
+    "category": null,
+    "currency": "ZAR",
+    "effective_date": "2025-08-15",
+    "intent": "confirmed_one_off_credit",
+    "percent": null
+  },
+  "message_57:0e54d4738f852b6d": {
+    "amount": null,
+    "category": null,
+    "currency": null,
+    "effective_date": null,
+    "intent": "income_end",
+    "percent": null
+  },
+  "message_58:d92686a5022ce4bd": {
+    "amount": 3072,
+    "category": null,
+    "currency": "USD",
+    "effective_date": null,
+    "intent": "salary_amount_change",
+    "percent": null
+  },
+  "message_59:1e1638309da2b4c1": {
+    "amount": null,
+    "category": null,
+    "currency": null,
+    "effective_date": null,
+    "intent": "refund_pending",
+    "percent": null
+  },
+  "message_60:f73db3502333b562": {
+    "amount": 158000,
+    "category": null,
+    "currency": "INR",
+    "effective_date": null,
+    "intent": "salary_amount_change",
+    "percent": null
+  },
+  "message_61:0d4f3b359451c237": {
+    "amount": null,
+    "category": "rent",
+    "currency": null,
+    "effective_date": null,
+    "intent": "expense_change_percent",
+    "percent": 12
+  },
+  "message_62:570c3270bb3b35bd": {
+    "amount": 1752,
+    "category": null,
+    "currency": "USD",
+    "effective_date": null,
+    "intent": "salary_amount_change",
+    "percent": null
+  },
+  "message_63:1ac9ccfe20362601": {
+    "amount": 62000,
+    "category": null,
+    "currency": "INR",
+    "effective_date": "2025-05-15",
+    "intent": "salary_start",
+    "percent": null
+  },
+  "message_64:8f7cb43976a59290": {
+    "amount": null,
+    "category": null,
+    "currency": null,
+    "effective_date": null,
+    "intent": "no_financial_change",
+    "percent": null
+  },
+  "message_65:9971b16b81c803b5": {
+    "amount": 8618400,
+    "category": null,
+    "currency": "IDR",
+    "effective_date": null,
+    "intent": "salary_amount_change",
+    "percent": null
+  },
+  "message_66:1820d4297417cf4c": {
+    "amount": 251000,
+    "category": null,
+    "currency": "INR",
+    "effective_date": "2026-01-15",
+    "intent": "salary_start",
+    "percent": null
+  },
+  "message_67:4ce7eb37952adac1": {
+    "amount": null,
+    "category": null,
+    "currency": null,
+    "effective_date": null,
+    "intent": "scam_or_solicitation",
+    "percent": null
+  },
+  "message_68:1597ef1edbd34dab": {
+    "amount": 13420,
+    "category": null,
+    "currency": "ZAR",
+    "effective_date": "2026-07-15",
+    "intent": "confirmed_one_off_credit",
+    "percent": null
+  },
+  "message_69:7edaa1da958e4908": {
+    "amount": null,
+    "category": null,
+    "currency": null,
+    "effective_date": null,
+    "intent": "no_financial_change",
+    "percent": null
+  },
+  "message_70:7e751c43e4267a89": {
+    "amount": 49280,
+    "category": null,
+    "currency": "ZAR",
+    "effective_date": null,
+    "intent": "salary_amount_change",
+    "percent": null
+  },
+  "message_71:31801c1739629c6e": {
+    "amount": null,
+    "category": null,
+    "currency": null,
+    "effective_date": null,
+    "intent": "unconfirmed_income",
+    "percent": null
+  },
+  "message_72:586d0ddeb7a7e0e2": {
+    "amount": 924,
+    "category": null,
+    "currency": "EUR",
+    "effective_date": "2024-12-15",
+    "intent": "confirmed_one_off_credit",
+    "percent": null
+  },
+  "message_73:42ff66753ea22b39": {
+    "amount": null,
+    "category": null,
+    "currency": null,
+    "effective_date": "2025-05-23",
+    "intent": "salary_date_change",
+    "percent": null
+  },
+  "message_74:13cd2088885496e9": {
+    "amount": 1804,
+    "category": null,
+    "currency": "EUR",
+    "effective_date": "2025-08-15",
+    "intent": "salary_start",
+    "percent": null
+  },
+  "message_75:22f97584ac19eb8f": {
+    "amount": null,
+    "category": null,
+    "currency": null,
+    "effective_date": null,
+    "intent": "settled_already",
+    "percent": null
+  },
+  "message_76:e338e01e2c0c5333": {
+    "amount": 1419,
+    "category": null,
+    "currency": "EUR",
+    "effective_date": "2026-04-15",
+    "intent": "confirmed_one_off_credit",
+    "percent": null
+  },
+  "message_77:c37b8b8f3e31bf8d": {
+    "amount": 164880,
+    "category": null,
+    "currency": "INR",
+    "effective_date": null,
+    "intent": "salary_amount_change",
+    "percent": null
+  },
+  "message_78:4f1a5f0b8df86671": {
+    "amount": 35860,
+    "category": null,
+    "currency": "ZAR",
+    "effective_date": null,
+    "intent": "salary_amount_change",
+    "percent": null
+  },
+  "message_79:1d1d3c498d10750e": {
+    "amount": null,
+    "category": null,
+    "currency": null,
+    "effective_date": null,
+    "intent": "investment_value_only",
+    "percent": null
+  },
+  "message_80:4b35b2290f38e033": {
+    "amount": 1815,
+    "category": null,
+    "currency": "EUR",
+    "effective_date": "2024-12-15",
+    "intent": "salary_start",
+    "percent": null
+  },
+  "message_81:bc084a5b5cc4de2c": {
+    "amount": 2123,
+    "category": null,
+    "currency": "EUR",
+    "effective_date": "2025-05-15",
+    "intent": "salary_start",
+    "percent": null
+  },
+  "message_82:e04b3abdec060384": {
+    "amount": 33440,
+    "category": null,
+    "currency": "ZAR",
+    "effective_date": null,
+    "intent": "salary_amount_change",
+    "percent": null
+  },
+  "message_83:58e24c8e52b757aa": {
+    "amount": 16720,
+    "category": null,
+    "currency": "ZAR",
+    "effective_date": "2025-08-15",
+    "intent": "confirmed_one_off_credit",
+    "percent": null
+  },
+  "message_84:4ffd9a6c5e19887e": {
+    "amount": null,
+    "category": null,
+    "currency": null,
+    "effective_date": null,
+    "intent": "income_end",
+    "percent": null
+  },
+  "message_85:090499a1873da364": {
+    "amount": 627,
+    "category": null,
+    "currency": "EUR",
+    "effective_date": "2024-06-15",
+    "intent": "salary_start",
+    "percent": null
+  },
+  "message_86:f224006844cb3efc": {
+    "amount": 1296,
+    "category": null,
+    "currency": "USD",
+    "effective_date": "2026-09-15",
+    "intent": "salary_start",
+    "percent": null
+  },
+  "message_87:596ab69da8899267": {
+    "amount": 148200,
+    "category": null,
+    "currency": "INR",
+    "effective_date": null,
+    "intent": "salary_amount_change",
+    "percent": null
+  },
+  "message_88:dc97b74aeb6c89cc": {
+    "amount": null,
+    "category": null,
+    "currency": null,
+    "effective_date": null,
+    "intent": "settled_already",
+    "percent": null
+  },
+  "message_89:0237595662c67ebe": {
+    "amount": 1188,
+    "category": null,
+    "currency": "EUR",
+    "effective_date": "2026-07-15",
+    "intent": "salary_amount_change",
+    "percent": null
+  },
+  "message_90:42e2758f55d68285": {
+    "amount": 759,
+    "category": null,
+    "currency": "EUR",
+    "effective_date": null,
+    "intent": "salary_amount_change",
+    "percent": null
+  },
+  "message_91:bfce37d0e92c5c1d": {
+    "amount": 176000,
+    "category": null,
+    "currency": "INR",
+    "effective_date": "2025-05-15",
+    "intent": "salary_start",
+    "percent": null
+  },
+  "message_92:26caca406a6d2e39": {
+    "amount": null,
+    "category": null,
+    "currency": null,
+    "effective_date": null,
+    "intent": "settled_already",
+    "percent": null
+  },
+  "message_93:f4668555ff64f258": {
+    "amount": 15390000,
+    "category": null,
+    "currency": "IDR",
+    "effective_date": "2025-08-15",
+    "intent": "confirmed_one_off_credit",
+    "percent": null
+  },
+  "message_94:bea0b78af1cd7882": {
+    "amount": null,
+    "category": null,
+    "currency": null,
+    "effective_date": null,
+    "intent": "unconfirmed_income",
+    "percent": null
+  },
+  "message_95:b9c7cd93c7d649c6": {
+    "amount": 748,
+    "category": null,
+    "currency": "EUR",
+    "effective_date": "2025-11-15",
+    "intent": "salary_start",
+    "percent": null
+  },
+  "message_96:3b7a8e0624130711": {
+    "amount": 152000,
+    "category": null,
+    "currency": "INR",
+    "effective_date": "2026-07-15",
+    "intent": "confirmed_one_off_credit",
+    "percent": null
+  },
+  "message_97:7100a18f30b09bbf": {
+    "amount": 50160,
+    "category": null,
+    "currency": "ZAR",
+    "effective_date": "2024-09-15",
+    "intent": "salary_start",
+    "percent": null
+  },
+  "message_98:0b82ebe4b65030bb": {
+    "amount": null,
+    "category": null,
+    "currency": null,
+    "effective_date": null,
+    "intent": "unconfirmed_income",
+    "percent": null
+  },
+  "message_99:36a82ab1839978ea": {
+    "amount": null,
+    "category": null,
+    "currency": null,
+    "effective_date": null,
+    "intent": "settled_already",
+    "percent": null
+  }
+}
